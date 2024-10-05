@@ -29,7 +29,7 @@ First extract dataset, prepared data, clean ,load and transform into Power BI de
 
 ## Authors
 
-- [swati khedekar](https://github.com/amit-jr/Expenditure-Data-Analysis-Project/tree/main/3.Analysis%20file)
+- [amit-jr](https://github.com/amit-jr/Expenditure-Data-Analysis-Project/tree/main/3.Analysis%20file)
 
 
 ## Documentation
